@@ -1,0 +1,3 @@
+python-rapidjson
+psycopg2
+sqlalchemy
